@@ -1,0 +1,16 @@
+.idea/
+
+# __pycache__
+__pycache__/*
+__pycache__/*.pyc
+*/__pycache__/*.pyc
+*.pyc
+build
+
+# example_data
+*/example_data/
+
+# egg
+*.egg*
+
+**.DS_Store
