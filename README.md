@@ -1,6 +1,8 @@
 # About
 This simulator result in 1D XRD or PDF data that is being stretched.
-The code was developed for the research work [`stretchNMF'](https://arxiv.org/abs/2311.15173), 
+The code was developed for the research work [`stretchNMF'](https://arxiv.org/abs/2311.15173).\ 
+If you use this work please cite: **'Gu R. et al., 'Stretched Non-negative Matrix Factorization', ArXiv 2311.15173 (2023)'**.\
+
 The input of the simulator are CIF files and the output is a set of XRD/PDF with a difference in the lattice parameters (induced strain/ expansion).
 
 # Authors
